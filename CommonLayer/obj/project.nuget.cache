@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C/wBqsngefGsvP3MOnjPIIC6NahZHr17J7cklyDmlQ8dAHgDJtZx0WDWTabGi+FCcrukgUoiE2OqobrmbjO16g==",
+  "success": true,
+  "projectFilePath": "C:\\Programs\\EmployeeCrudAjaxQuery\\CommonLayer\\CommonLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\somesh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\somesh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\somesh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

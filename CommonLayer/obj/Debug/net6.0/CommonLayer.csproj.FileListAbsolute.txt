@@ -1,0 +1,12 @@
+C:\Programs\EmployeeCrudAjaxQuery\CommonLayer\bin\Debug\net6.0\CommonLayer.deps.json
+C:\Programs\EmployeeCrudAjaxQuery\CommonLayer\bin\Debug\net6.0\CommonLayer.dll
+C:\Programs\EmployeeCrudAjaxQuery\CommonLayer\bin\Debug\net6.0\CommonLayer.pdb
+C:\Programs\EmployeeCrudAjaxQuery\CommonLayer\obj\Debug\net6.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\EmployeeCrudAjaxQuery\CommonLayer\obj\Debug\net6.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Programs\EmployeeCrudAjaxQuery\CommonLayer\obj\Debug\net6.0\CommonLayer.AssemblyInfo.cs
+C:\Programs\EmployeeCrudAjaxQuery\CommonLayer\obj\Debug\net6.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Programs\EmployeeCrudAjaxQuery\CommonLayer\obj\Debug\net6.0\CommonLayer.sourcelink.json
+C:\Programs\EmployeeCrudAjaxQuery\CommonLayer\obj\Debug\net6.0\CommonLayer.dll
+C:\Programs\EmployeeCrudAjaxQuery\CommonLayer\obj\Debug\net6.0\refint\CommonLayer.dll
+C:\Programs\EmployeeCrudAjaxQuery\CommonLayer\obj\Debug\net6.0\CommonLayer.pdb
+C:\Programs\EmployeeCrudAjaxQuery\CommonLayer\obj\Debug\net6.0\ref\CommonLayer.dll

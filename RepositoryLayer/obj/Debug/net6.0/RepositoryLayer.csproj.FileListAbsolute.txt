@@ -1,0 +1,15 @@
+C:\Programs\EmployeeCrudAjaxQuery\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+C:\Programs\EmployeeCrudAjaxQuery\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+C:\Programs\EmployeeCrudAjaxQuery\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Programs\EmployeeCrudAjaxQuery\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Programs\EmployeeCrudAjaxQuery\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Programs\EmployeeCrudAjaxQuery\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\EmployeeCrudAjaxQuery\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Programs\EmployeeCrudAjaxQuery\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Programs\EmployeeCrudAjaxQuery\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Programs\EmployeeCrudAjaxQuery\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.sourcelink.json
+C:\Programs\EmployeeCrudAjaxQuery\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+C:\Programs\EmployeeCrudAjaxQuery\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+C:\Programs\EmployeeCrudAjaxQuery\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+C:\Programs\EmployeeCrudAjaxQuery\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+C:\Programs\EmployeeCrudAjaxQuery\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
